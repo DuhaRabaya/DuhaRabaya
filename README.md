@@ -36,9 +36,13 @@
 </p>
 
 <br/><br/>
+<h3 align="center">My LeetCode Stats:</h3>
 
-<div style="display:flex; align-items:center; justify-content:center">
-  <img src="https://leetcard.jacoblin.cool/DuhaRabaya?theme=dark&font=source_code_pro  ">
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DuhaRabaya?theme=dark&font=source_code_pro" />
+</p>
+
+
+
 
 
