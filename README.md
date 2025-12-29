@@ -35,12 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
-<br/><br/>
-<h3 align="center">My LeetCode Stats:</h3>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/DuhaRabaya?theme=dark&font=source_code_pro" />
-</p>
 
 
 
