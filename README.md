@@ -4,7 +4,7 @@
   <div>
         <h3>💫 About Me:</h3>
         <p>I'm a Computer Engineering student at PTUK💻.</p>
-        <p>experienced in web development (Frontend & Backend) ⚙️</p>
+        <p>interested in web development (Frontend & Backend) ⚙️</p>
         <p>always eager to learn new skills and enhance my technical expertise.</p>
     </div>
 </div>
