@@ -1,42 +1,54 @@
+<h1 align="center">Hi 👋, I'm Duha</h1>
+<h3 align="center">Computer Engineering Student 💻 | Backend Developer ⚙️</h3>
 
+---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <div>
-        <h3>💫 About Me:</h3>
-        <p>I'm a Computer Engineering student at PTUK💻.</p>
-        <p>interested in web development (Frontend & Backend) ⚙️</p>
-        <p>always eager to learn new skills and enhance my technical expertise.</p>
-    </div>
-</div>
-<br/><br/>
+### 💫 About Me
+- 🎓 Computer Engineering student at PTUK  
+- ⚙️ Backend-focused developer  
+- 🧠 Interested in building scalable systems & clean architectures
+- 🌐 Also experienced with frontend when needed  
+- 🚀 Always learning and building real-world projects  
 
-<h3 align="center">Connect with me:</h3>
+### 🧰 Tech Stack
 <p align="center">
-<a href="https://www.linkedin.com/in/duha-rabaya-743b38269/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
-<a href="https://github.com/DuhaRabaya" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,python,js,html,css" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="48" height="48" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="EF / ASP.NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+### 🧩 What I Work On
+- 🔐 Authentication & Authorization (JWT, Roles)  
+- 🌍 RESTful API Development  
+- 🏗️ Clean Architecture & layered design  
+- 🗄️ Database design (SQL Server)  
+- 💳 Payment integration (Stripe)  
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/duha-rabaya-743b38269/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DuhaRabaya">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuhaRabaya&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuhaRabaya&theme=tokyonight" />
+</p>
 
+---
 
+### ✨ Current Focus
+- Improving backend architecture skills  
+- Writing cleaner, maintainable code  
+- Building production-ready APIs  
 
-
+---
 
