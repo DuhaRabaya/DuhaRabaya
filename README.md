@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duha</h1>
-<h3 align="center">Computer Engineering Student 💻 | Backend Developer ⚙️</h3>
+<h3 align="center">Computer Engineering Graduate 💻 | Backend Developer ⚙️</h3>
 
 ---
 
