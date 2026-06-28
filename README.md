@@ -4,7 +4,6 @@
 ---
 
 ### 💫 About Me
-- 🎓 Computer Engineering student at PTUK  
 - ⚙️ Backend-focused developer  
 - 🧠 Interested in building scalable systems & clean architectures
 - 🌐 Also experienced with frontend when needed  
